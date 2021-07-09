@@ -10,7 +10,7 @@
 #include "devicecommandhandler.h"
 #include <unordered_map>
 
-#include "radio2_frames.h"
+#include "neoRAD-IO2-FrameDescription/radio2_frames.h"
 
 #include "libneoradio2common.h"
 

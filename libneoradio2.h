@@ -24,7 +24,8 @@
 #include "neoRAD-IO2-FrameDescription\radio2_frames.h"
 #include "neoRAD-IO2-FrameDescription\neoRAD-IO2-AOUT.h"
 #else
-#include "radio2_frames.h"
+#include "neoRAD-IO2-FrameDescription/radio2_frames.h"
+#include "neoRAD-IO2-FrameDescription/neoRAD-IO2-AOUT.h"
 #endif
 
 #include "libneoradio2common.h"

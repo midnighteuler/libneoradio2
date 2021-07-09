@@ -8,7 +8,7 @@
 // to try and include this submodule header... giving up and "hardcoding" it here
 #include "neoRAD-IO2-FrameDescription\radio2_frames.h"
 #else
-#include "radio2_frames.h"
+#include "neoRAD-IO2-FrameDescription/radio2_frames.h"
 #endif
 
 #ifdef __cplusplus
